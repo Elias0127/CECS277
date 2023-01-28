@@ -1,6 +1,6 @@
 # Elias Woldie
 # Python –-> 2D Lists
-# This program that generates a RxC solution board for the game Minesweeper.
+# This program generates a RxC solution board for the game Minesweeper.
 
 import check_input
 import random
